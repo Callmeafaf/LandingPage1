@@ -14,7 +14,7 @@ body{
     margin-left:300px;
   }
   #firstsec a{
-    color:e5e7eb;
+    color:#e5e7eb;
     font-size:18px;
     margin-left:40px;
     margin-right:40px;
@@ -28,21 +28,21 @@ body{
     padding-top:25px;
   }
   .content1 h1{
-    color:f9faf8;
+    color:#f9faf8;
     font-size:48px;
     font-weight:bold;
     width:300px;
     margin-bottom:10px;
   }
   .content1 p{
-    color:e5e7eb;
+    color:#e5e7eb;
     font-size:18px;
     width:300px;
     margin-top:0;
   }
   .content1 button{
-    background-color:3882f6;
-    color:f9faf8;
+    background-color:#3882f6;
+    color:#f9faf8;
     width:100px;
     height:35px;
     font-size:20px;
@@ -110,7 +110,7 @@ body{
 #content3 .quote{
  
   font-size:36px;
- color:1f2937;
+ color:#1f2937;
   font-style:italic;
   font-weight:lighter;
   width:900px;
@@ -124,7 +124,7 @@ body{
   font-weight:bold;
   font-size:25px;
   padding-left:1300px;
-  color:1f2937;
+  color:#1f2937;
 }
 #content4 {
   width:100%;
@@ -141,7 +141,7 @@ body{
 }
 #content4 .text{
   margin-right:30px;
-  color:f9faf8;
+  color:#f9faf8;
   margin-top:40px;
   margin-left:40px;
 }
@@ -152,7 +152,7 @@ body{
   margin-top:60px;
   margin-left:40px;
   background-color:#3882f6;
-  color:f9faf8;
+  color:#f9faf8;
   font-size:25px;
   font-weight:bold;
   border:3px solid #f9faf8;
@@ -164,7 +164,7 @@ footer{
   height:80px;
   background-color:#1f2937;
   text-align:center;
-  color:f9faf8;
+  color:#f9faf8;
   padding-top:30px;
   font-size:20px;
 }
